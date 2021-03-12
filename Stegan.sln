@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stegan", "Stegan\Stegan.csproj", "{EC2D8AF0-3C98-4213-A17C-7FA601F451AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2D8AF0-3C98-4213-A17C-7FA601F451AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2D8AF0-3C98-4213-A17C-7FA601F451AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2D8AF0-3C98-4213-A17C-7FA601F451AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D8AF0-3C98-4213-A17C-7FA601F451AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2205B0-4BB5-45CA-8A72-71B925379233}
+	EndGlobalSection
+EndGlobal
